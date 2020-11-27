@@ -33,6 +33,5 @@
 
 #include "timers/timer_micros.h"
 #include "timers/timer_systick.h"
-#include "timers/timer_f411re.h"
 #include "timers/timer_nrf52840.h"
 #include "timers/timer_esp8266.h"

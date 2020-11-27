@@ -58,8 +58,6 @@ const char* get_platform_name()
 {
     #if defined (LWC_PLATFORM_MKRZERO)
         return "mkrzero";
-    #elif defined (LWC_PLATFORM_F411RE)
-        return "f411re";
     #elif defined (LWC_PLATFORM_NANO33BLE)
         return "nano33ble";
     #elif defined (LWC_PLATFORM_NANOEVERY)
